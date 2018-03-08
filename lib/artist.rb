@@ -8,3 +8,5 @@ class Artist
     @artist = artist
   end
 end
+
+katana = Artist.new("Katana", "Pop")
