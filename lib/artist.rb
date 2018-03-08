@@ -1,4 +1,4 @@
-# require '/lib/song.rb'
+require './song.rb'
 
 class Artist
   attr_accessor :name, :songs, :genre
