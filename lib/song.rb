@@ -21,5 +21,6 @@ class Artist
 end
 
 
-problema = Song.new("Problema", katana)
+
 katana = Artist.new("Katana", "Pop")
+problema = Song.new("Problema", katana)
