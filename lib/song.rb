@@ -10,5 +10,5 @@ class Song
   end
 end
 
-
-problema = Song.new("Problema", katana)
+# 
+# problema = Song.new("Problema", katana)
