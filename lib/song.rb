@@ -9,3 +9,5 @@ class Song
     artist.songs << title
   end
 end
+
+problema = Song.new("Problema", katana)
