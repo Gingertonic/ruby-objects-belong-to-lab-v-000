@@ -1,4 +1,4 @@
-require './song.rb'
+# require './song.rb'
 
 class Artist
   attr_accessor :name, :songs, :genre
@@ -10,4 +10,4 @@ class Artist
   end
 end
 
-katana = Artist.new("Katana", "Pop")
+# katana = Artist.new("Katana", "Pop")
